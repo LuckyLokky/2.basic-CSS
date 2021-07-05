@@ -1,0 +1,44 @@
+body{
+    font-family: tahoma;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    padding-left: 400px ;
+    padding-right: 400px;    
+}
+
+h1{ 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(128, 128, 128, 0.185);
+}
+
+h2{
+    color: rgba(204, 158, 32, 0.767) ;
+    text-align: center; 
+}   
+
+.first{
+    border: 3px black solid;
+    border-radius: 0 15px 0 15px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.second{
+    border: 3px black dashed;
+    margin-top: 20px;
+    border-radius: 0 15px 0 15px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.more{
+    text-align: right;
+}
+
+a{
+    color: tomato;
+    text-decoration: none;
+}
+
